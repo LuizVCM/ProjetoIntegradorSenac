@@ -112,3 +112,4 @@ Curso Técnico em Desenvolvimento de Sistemas
 
 ---
 
+<img width="780" height="379" alt="image" src="https://github.com/user-attachments/assets/84aec304-5be4-4dbe-b259-d98805e71daa" />
